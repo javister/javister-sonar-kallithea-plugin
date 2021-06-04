@@ -27,7 +27,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <common-lang-version>2.6</common-lang-version>
         <common-io-version>2.5</common-io-version>
-        <httpclient-version>4.5.2</httpclient-version>
+        <httpclient-version>4.5.13</httpclient-version>
         <httpcore-version>4.4.6</httpcore-version>
         <!-- 6.1 - сейчас установлена на http://ntp-sonar.krista.ru -->
         <sonar.apiVersion>6.5</sonar.apiVersion>
